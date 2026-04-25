@@ -6,7 +6,7 @@ This is a full-stack e-commerce project like Amazon & Flipkart.
 
 ## 📸 Screenshots
 
-![Dashboard](1.snapcart/screenshots/dashboard.jpeg)
+![Dashboard](./1.snapcart/screenshots/dashboard.jpeg)
 ![Dashboard1](1.snapcart/screenshots/dashboard1.jpeg)
 ![Dashboard2](1.snapcart/screenshots/dashboard2.jpeg)
 ![Dashboard3](1.snapcart/screenshots/dashboard3.jpeg)
