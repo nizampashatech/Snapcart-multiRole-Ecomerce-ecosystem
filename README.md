@@ -18,8 +18,7 @@ This is a full-stack e-commerce project like Amazon & Flipkart.
 ![Dashboard9](1.snapcart/screenshots/dashboard9.jpeg)
 ![Dashboard10](1.snapcart/screenshots/dashboard10.jpeg)
 ![Dashboard11](1.snapcart/screenshots/dashboard11.jpeg)
-https://github.com/nizampashatech/Snapcart-multiRole-Ecomerce-ecosystem/blob/main/README.md#:~:text=dashboard.jpeg-,dashboard1,-.jpeg
----
+
 
 ## 🚀 Features
 - User login/signup
